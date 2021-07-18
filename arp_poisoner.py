@@ -1,13 +1,7 @@
-# ARP = Address Resolution Protocol
-# alltaki kodu terminalde çalıştırmak gerekir bu ip forwarding dir
-
-# echo 1 > /proc/sys/net/ipv4/ip_forward
-# usage : python3 my_arp_poison.py -t targetwindows ip -g modemgateway
 import subprocess
 import scapy.all as scapy
 import time
 import optparse
-
 import subprocess as sp
 
 sp.call("echo 1 > /proc/sys/net/ipv4/ip_forward", shell=True)
