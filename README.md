@@ -1,6 +1,4 @@
 # MITM-tool
-Man in the middle attack tool makes arp poisoning and packet listening. Usage descriptions are in the README file
-
 MITM is known as one of the most common attack and this tool do this attack. This repo include arp poisoner and packet listener python files. This is educational repository so don't try this tool over other users. Firstly run arp_poisoner.py then packet_listener.py also you can use wireshark instead of packet_listener.py
 ![Image of Yaktocat](https://i0.wp.com/hackonology.com/wp-content/uploads/2019/10/man-in-the-middle-attack.png?w=893&ssl=1)
 
