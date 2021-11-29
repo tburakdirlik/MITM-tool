@@ -9,7 +9,6 @@ Operating system: Linux
 Libraries: 
 ```bash
 > pip install scapy 
-> pip install sslstrip
 ```
 # Arp poisoner usage
 ```bash
