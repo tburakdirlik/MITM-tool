@@ -12,7 +12,7 @@ Libraries:
 ```
 # Arp poisoner usage
 ```bash
-> python3 arp_poisoner.py -t <target ip> -g <gateway ip>
+> python3 arp_poisoner.py -t target_ip -g gateway_ip
 ```
 
 # Packet listener usage
