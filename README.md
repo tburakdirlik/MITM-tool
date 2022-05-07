@@ -24,3 +24,5 @@ if you want to see just user infos like username and password when a user go int
 ```bash    
 Option 2 -> python3 packetlistener.py --userinfos <interface>
 ```
+
+packetListener can show http pakets, https packets seen as encoded. 
